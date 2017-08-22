@@ -1,4 +1,4 @@
-#Getting Started 101
+# Getting Started 101
 
 Let's get into the meat of things. We are ready to begin creating our application. There are certain things necessary that
 we must do to setup. These are outlined as follows :
@@ -13,15 +13,15 @@ server project(which is your bot) that are functional and communicating together
 architectural diagram provided below
 
 
-##Creating a page
+## Creating a page
 A facebook page is the first step because the other two components will be linked to your facebook page. Very quickly head over
 to [create facebook page](https://www.facebook.com/pages/create) and just follow the simple steps required.
 
-##Creating an app
+## Creating an app
 You will then create a facebook app. Head over to [create facebook app](https://developers.facebook.com/apps) to create an app.
 Click on add a new app.
 
-##Setting up a webhook
+## Setting up a webhook
 What is a webhook? Think of webhook as a callback, essentially a webhook is a url that will be called once a event occurs, in
 facebook's messenger's case, you will have to supply a url that will be called once an event(message is received from users)
 occur. This means you have to implement a web server that provides a url on which you listen for messages because you
@@ -77,6 +77,6 @@ from fb will always have this parameter.
   [here](https://developers.facebook.com/docs/messenger-platform/webhook).
   Also choose the page you just created to subscribe the app to that page.
 
-##Generating a page access token
+## Generating a page access token
 On the facebook app dashboard, in the messenger tab, you will see the token generation section. Select the page you just created
 and save your newly generated page access token.
