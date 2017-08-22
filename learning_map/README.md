@@ -1,7 +1,7 @@
 ## Part I
   * [What are bots?](part1/what-are-bots.md)
   * [How do bots work?](part1/how-do-bots-work.md)
-  * Getting started 101
+  * [Getting started 101](part1/getting-started-101.md)
 
     * Creating a page
     * Creating a Facebook app
