@@ -1,6 +1,6 @@
 ## Part I
-  * What are bots?
-  * How do bots work?
+  * [What are bots?](part1/what-are-bots.md)
+  * [How do bots work?](part1/how-do-bots-work.md)
   * Getting started 101
 
     * Creating a page
@@ -12,16 +12,16 @@
 ## Part II
   * Managing conversation flow
   * Send API reference
-    
+
     * Templates
     * Buttons
     * Quick replies
     * Sender actions
     * Attachment upload API
     * Tags
-  
+
   * Webhook reference
-    
+
     * Message
     * Message delivered
     * Message Read
@@ -36,7 +36,7 @@
 
 ## Part III
   * Thread settings
- 
+
     * Get started button
     * Welcome text
     * Persistent menu
